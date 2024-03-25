@@ -1,0 +1,49 @@
+2024/03/21 17:41:02 Server started and listening on localhost:8989
+2024/03/21 17:41:05 New connection from: 127.0.0.1:41274
+2024/03/21 17:41:07 New connection from DIM
+2024/03/21 17:41:20 Failed to start server: listen tcp 127.0.0.1:8989: bind: address already in use
+2024/03/21 17:41:31 New connection from: 127.0.0.1:41276
+2024/03/21 17:41:34 New connection from toto
+2024/03/21 17:41:46 New connection from: 127.0.0.1:41278
+2024/03/21 17:41:53 New connection from jojo
+2024/03/21 17:42:06 Max connections reached
+2024/03/21 17:42:06 New connection from: 127.0.0.1:41280
+2024/03/21 17:42:06 read error: read tcp 127.0.0.1:8989->127.0.0.1:41280: use of closed network connection
+2024/03/21 17:42:06 New connection from Unknown
+2024/03/21 17:42:06 Error sending message to toto: write tcp 127.0.0.1:8989->127.0.0.1:41280: use of closed network connection
+2024/03/21 17:42:06 read error: read tcp 127.0.0.1:8989->127.0.0.1:41280: use of closed network connection
+2024/03/21 17:42:58 Shutting down server...
+2024/03/21 17:42:58 read error: read tcp 127.0.0.1:8989->127.0.0.1:41278: use of closed network connection
+2024/03/21 17:42:58 read error: read tcp 127.0.0.1:8989->127.0.0.1:41274: use of closed network connection
+2024/03/21 17:42:58 read error: read tcp 127.0.0.1:8989->127.0.0.1:41276: use of closed network connection
+2024/03/21 17:42:59 Server started and listening on localhost:8989
+2024/03/21 17:43:18 New connection from: 127.0.0.1:41284
+2024/03/21 17:43:20 New connection from Dim
+2024/03/21 17:43:25 New connection from: 127.0.0.1:41288
+2024/03/21 17:43:37 read error: EOF
+2024/03/21 17:43:37 New connection from Unknown
+2024/03/21 17:43:39 Shutting down server...
+2024/03/21 17:43:42 Server started and listening on localhost:8989
+2024/03/21 17:43:47 New connection from: 127.0.0.1:41290
+2024/03/21 17:43:56 New connection from: 127.0.0.1:41292
+2024/03/21 17:44:00 read error: EOF
+2024/03/21 17:44:00 New connection from Unknown
+2024/03/21 17:44:02 read error: EOF
+2024/03/21 17:44:02 New connection from Unknown
+2024/03/21 17:44:04 Shutting down server...
+2024/03/21 17:44:05 Server started and listening on localhost:8989
+2024/03/21 17:44:08 New connection from: 127.0.0.1:41294
+2024/03/21 17:44:12 New connection from: 127.0.0.1:41296
+2024/03/21 17:44:22 New connection from: 127.0.0.1:41298
+2024/03/21 17:48:10 read error: EOF
+2024/03/21 17:48:10 New connection from Unknown
+2024/03/21 17:48:18 New connection from: 127.0.0.1:41300
+2024/03/21 17:48:18 New connection from jACK
+2024/03/21 17:54:30 read error: EOF
+2024/03/21 17:54:30 New connection from Unknown
+2024/03/21 17:54:32 read error: EOF
+2024/03/21 17:54:32 New connection from Unknown
+2024/03/21 17:54:39 Shutting down server...
+2024/03/25 12:57:45 Server started and listening on localhost:8989
+2024/03/25 12:57:46 Shutting down server...
+2024/03/25 12:57:57 Server started and listening on localhost:2222
