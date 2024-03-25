@@ -1,3 +1,3 @@
-module net-cat2.0
+module TCPChat
 
 go 1.22.1
